@@ -1,5 +1,7 @@
 # Coeffects
 
+Liveness analysis and bounded reuse.
+
 ## References
 
 ### Coeffects: Unified static analysis of context-dependence
